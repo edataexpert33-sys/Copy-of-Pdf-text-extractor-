@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PDF Text Extractor",
+  "description": "Extract and transcribe text from PDF documents using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
